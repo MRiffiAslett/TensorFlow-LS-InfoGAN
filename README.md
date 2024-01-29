@@ -1,6 +1,6 @@
 # LS-GAN-TF
 
-This repository contains the TensorFlow implementation of the Least Squares Generative Adversarial Network (LS-GAN) with an InfoGAN extension. LS-GAN aims to generate high-quality images by minimizing the Pearson χ2 divergence, and the InfoGAN extension allows for disentangled representation learning in an unsupervised manner.
+This repository contains some experiments of mine with Least Squares Generative Adversarial Networks (LS-GAN) with an InfoGAN extension. LS-GAN aims to generate high-quality images by minimizing the Pearson χ2 divergence, and the InfoGAN extension allows for disentangled representation learning in an unsupervised manner.
 
 ## Prerequisites
 
